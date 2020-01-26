@@ -1,2 +1,2 @@
-# IST402_GitWithAtom
+# GitWithAtom
 Lesson on using git and Atom
